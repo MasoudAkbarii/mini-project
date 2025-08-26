@@ -1,0 +1,16 @@
+# Node modules (حجم خیلی زیاد، نیازی به پوش کردن نیست)
+/node_modules
+
+# خروجی‌های build (در صورت داشتن)
+/dist
+/build
+
+# فایل‌های سی‌اس‌اس تولید شده (Tailwind output)
+/assets/output.css
+
+# سیستم‌عامل‌ها
+/.DS_Store
+/Thumbs.db
+
+# VSCode تنظیمات محلی
+/.vscode
